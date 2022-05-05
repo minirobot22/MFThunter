@@ -66,7 +66,6 @@ Please wait ... it might take a while, depending on the the Size of your MFT fil
 python3 MFThunter.py -m 2 -p /home/MFT/
 Please wait ... it might take a while, depending on the the Size of your MFT files
 
-  ('winload.exe', '.\\Windows\\System32\\Boot')
   ('winresume.exe', '.\\Windows\\System32')
   ('winresume.exe', '.\\Windows\\System32\\Boot')
   ('winrs.exe', '.\\Windows\\SysWOW64')
