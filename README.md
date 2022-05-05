@@ -2,7 +2,7 @@
 Hunt through MFT files with CSV format
 
 ### Description
-MFThunter.py is used to hunt through bunch of MFT files in CSV format in an attempt to spot quick anamolies, the script currently has 2 hunt methods:
+MFThunter.py is used to hunt through bunch of MFT files in CSV format in an attempt to spot quick anomalies, the script currently has 2 hunt methods:
 
 1. Calcualte similiraty between two execuatable names (levenshtein distance) to spot if a malicious exe/process is mirroring a legitmate one Ex: (svchost,svch0st).
 
