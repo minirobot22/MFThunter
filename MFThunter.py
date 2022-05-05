@@ -5,6 +5,7 @@
 # LinkedIn: https://www.linkedin.com/in/osama-mustafa
 # More Features to Come
 
+
 import sqlite3
 import pandas as pd
 from pathlib import Path
