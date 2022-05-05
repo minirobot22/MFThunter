@@ -15,6 +15,14 @@ MFThunter.py is used to hunt through bunch of MFT files in CSV format in an atte
 ##### Note: MFT CSV files used are generated/parsed by Eric Zimmerman's known tool (MFTECmd) which is located here
 https://github.com/EricZimmerman/MFTECmd
 
+### Requirements
+
+the script requires pandas & levenshtein(0.11.2) python modules, you can install them using the requirements file
+
+```
+ pip3 install -r requirements.txt
+```
+
 
 ### Usage
 
