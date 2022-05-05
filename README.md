@@ -1,5 +1,5 @@
 # MFThunter
-Hunt through MFT files with CSV format
+Hunt through MFT files in CSV format
 
 ### Description
 MFThunter.py is used to hunt through bunch of MFT files in CSV format in an attempt to spot quick anomalies, the script currently has 2 hunt methods:
